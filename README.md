@@ -76,3 +76,8 @@ appropriate for this assignment but not for production. Test-mode rules expire
 
 - Flutter 3.27+ (developed on 3.44.4, Dart 3.12.2)
 - Android device or emulator (Android is the only configured platform)
+
+## Output
+Notes are being saved to firebase data store
+<img width="1854" height="917" alt="image" src="https://github.com/user-attachments/assets/e0f63fd3-c7a6-4eb9-a2e9-343833afb62e" />
+
